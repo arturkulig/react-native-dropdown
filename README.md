@@ -111,6 +111,8 @@ For complete implementation checkout example folder.
 | height | number | 50 | Height of the selection |
 | optionListRef | function | required | Reference to ```<OptionList />``` to display the selection menu |
 | style | object | null | Custom styles to be applied if supplied |
+| styleOption | object | null | Custom styles to be applied to selected option |
+| styleText | object | null | Custom styles to be applied to selected option text |
 | defaultValue | string | first option | The value to be displayed if none of the options are selected. |
 
 ##### Option:
